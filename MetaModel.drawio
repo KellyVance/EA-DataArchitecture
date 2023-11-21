@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T02:33:11.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="njfQJynYOD6JK7tHdfXk" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-21T05:13:38.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="do5yYtvJrMJVr4EZdYtm" version="22.1.3" type="github" pages="3">
   <diagram id="dSMpPCMRFVoMhnsqTzQS" name="MetaModel (Ontology)">
-    <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,20 +99,20 @@
         <mxCell id="gTGTpOwcSKxPiAX5VktX-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Document/&lt;br style=&quot;font-size: 12px;&quot;&gt;Resource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="240" y="-320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gTGTpOwcSKxPiAX5VktX-28" value="Global Ontology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="10" width="140" height="30" as="geometry" />
+        <mxCell id="gTGTpOwcSKxPiAX5VktX-28" value="Global Ontology" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-200" width="150.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gTGTpOwcSKxPiAX5VktX-29" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="gTGTpOwcSKxPiAX5VktX-4" target="gTGTpOwcSKxPiAX5VktX-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gTGTpOwcSKxPiAX5VktX-30" value="Physical Entities&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(master data)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="-199.5" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gTGTpOwcSKxPiAX5VktX-31" value="Activities&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(transactional data)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="39.5" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gTGTpOwcSKxPiAX5VktX-32" value="Links" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="199.5" y="39.5" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="120" y="29.5" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="gTGTpOwcSKxPiAX5VktX-33" value="to" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=8;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="gTGTpOwcSKxPiAX5VktX-36" target="gTGTpOwcSKxPiAX5VktX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -258,31 +258,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-2" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="80" width="120" height="200" as="geometry" />
+          <mxGeometry x="-199.5" y="70" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Tasks (discrete)&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Survey Response&lt;br style=&quot;font-size: 9px;&quot;&gt;Workshop&lt;br style=&quot;font-size: 9px;&quot;&gt;Meeting&lt;br style=&quot;font-size: 9px;&quot;&gt;Invoicing&lt;br style=&quot;font-size: 9px;&quot;&gt;Interview&lt;/font&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="39.5" y="80" width="120.5" height="90" as="geometry" />
+          <mxGeometry x="-40" y="70" width="120.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Process (1-or-many tasks)&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Awards&lt;br&gt;Assessments&lt;br&gt;&lt;/font&gt;Accreditations&lt;br&gt;ICT Service Events&lt;br&gt;Marketing&lt;br&gt;Learning and Events&lt;br&gt;Renewals&lt;/font&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="30" y="220" width="120.5" height="180" as="geometry" />
+          <mxGeometry x="-49.5" y="210" width="120.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Relationships (agent-agent)&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font&gt;Staff&lt;br&gt;Collaborator&lt;br&gt;Customer&lt;br&gt;&amp;nbsp; Applicant&lt;br&gt;&amp;nbsp; Member&lt;br&gt;Lead&lt;br&gt;Supplier&lt;br&gt;&amp;nbsp; Contractor&lt;br&gt;Volunteer&lt;/font&gt;&lt;br&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="120" height="120" as="geometry" />
+          <mxGeometry x="120.5" y="70" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Roles (agent-activity)&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font&gt;Advisor&lt;br&gt;Contributor&lt;br&gt;Creator&lt;br&gt;&amp;nbsp; Author&lt;br&gt;Assessor&lt;br&gt;Assistant&lt;br&gt;Editor&lt;br&gt;Sponsor&lt;br&gt;User&lt;/font&gt;&lt;br&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="199" y="220" width="120.5" height="180" as="geometry" />
+          <mxGeometry x="119.5" y="210" width="120.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Agents&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font&gt;Person&lt;br&gt;&lt;/font&gt;Organisation&lt;br&gt;&amp;nbsp; Internal Group&lt;br&gt;&amp;nbsp; &amp;nbsp; Business Unit&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Division&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Functional Unit&lt;br&gt;&amp;nbsp; &amp;nbsp; Technical Society&lt;br&gt;&amp;nbsp; Government Agency&lt;br&gt;&amp;nbsp; Private Company&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="80" width="120.5" height="120" as="geometry" />
+          <mxGeometry x="-199.5" y="70" width="120.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Documents&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;Policy&lt;br&gt;Standard&lt;br&gt;Guideline&lt;br&gt;Quick Reference Guide&lt;br&gt;Form&lt;br&gt;Template&lt;br&gt;Notes&lt;br&gt;Minutes&lt;br&gt;Agenda&lt;br&gt;Presentation&lt;br&gt;Speech&lt;br&gt;On-A-Page&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="220" width="120.5" height="180" as="geometry" />
+          <mxGeometry x="-199.5" y="210" width="120.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-FJt3H1GDFpUeJFt4Lem-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Result (discrete data point)&lt;/b&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;font&gt;Descriptive (text)&lt;br&gt;Score&lt;br&gt;&amp;nbsp; NPS&lt;br&gt;&amp;nbsp; Rating&lt;br&gt;Count&lt;br&gt;&lt;/font&gt;Date&lt;br&gt;Time&lt;br&gt;Duration&lt;br&gt;Cost&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontFamily=Courier New;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="120" height="130" as="geometry" />
+          <mxGeometry x="280.5" y="70" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lCZrTHheb99Fzn1val_u-2" value="Attributes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="280.5" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iSC7PxFtB5HiR2jRvMea-1" value="Person" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#F4F7FC;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-280" width="120" height="40" as="geometry" />
@@ -328,6 +328,9 @@
             <mxPoint x="250" y="-280" as="sourcePoint" />
             <mxPoint x="170" y="-280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cnYh2GJ7iPv7uZ0s8gUX-1" value="&lt;h1&gt;Core Definitions&lt;/h1&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;The metamodel describes how classes relate to each other at a fundamental level. The canonical model will separate customers, employees, and volunteers and describe their differences. In contrast the metamodel provides the recognition that customers, employees, and volunteers are all variations of the Agent Relationship class, i.e. they all describe different ways that an agent can be linked to another agent.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Agents: Entities that have agency and can participate in activities that generate objects, results, information. Major subclasses are Persons and Organisations.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Agent Relationships: A link between two agents. A link defined by how to agents interact, such as a &lt;i&gt;customer&lt;/i&gt;&amp;nbsp;relationship between an organisation and a person or other organisation.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Agent Role: A link between an agent and how they particpate in an activity. A person may be related to an organisation as an employee, but in that capacity particpate in a project activity as a contributor or reviewer.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Tasks: Self-contained events, or sets of events that product results or artefacts or change the state of an entity. These are typically generic and apply to a broad range of organisations&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Project: a related set of tasks leading to a shared outcome. For example a single project to deliver a report may include tasks such as planning, meetings, invoicing, authoring, reviewing, etc&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Document/Resource: a single file, document, or artefact containing a set of information&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Report/Profile: A set of documents, files and resources that form a collective dataset or package relating to a common subject&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Offering: An entity offered from one party to another, typically as part of an exchange. When an offering is a tangible object it is a product, when an offering is an intangible activity or provision of expertise it is a service.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Result: A single atomic output from an observation task. This may be a count of things, a numerical value with a unit of measure, or a text based description&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Property: An amalgamation, consolidation, or interpretation of multiple results that describes an attribute of something,&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-480" width="320" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -433,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Agents - Expanded Logical">
-    <mxGraphModel dx="4974" dy="5489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4734" dy="5439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
